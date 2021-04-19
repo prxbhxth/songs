@@ -1,0 +1,45 @@
+body{
+    background-color: black;
+    color: white;
+    font-family: 'Poppins', sans-serif;
+}
+
+li{
+    list-style: none;
+    width: fit-content;
+    text-transform: uppercase;
+}
+
+li{
+    text-decoration: none;
+}
+
+a{
+    text-decoration: none;
+    width: fit-content;
+    color: white;
+}
+
+header{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    width: 100%;
+    margin: auto;
+}
+
+.logo-container{
+    display: flex;
+    font-weight: 700;
+    align-items: center;
+}
+
+.logo{
+    size: 20px;
+    height: 40px;
+}
+
+.creds{
+    font-weight: 600;
+}
+
